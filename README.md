@@ -3,7 +3,7 @@
 Purpose:
 Creates a discord bot that posts a list trending movies or shows from the trakt tv apiautomatically to a discord channel.
 
-Examples:
+Examples: <br/>
 dt clear 5 - Removes last 5 messages from discord channel. <br/>
 dt clear 10 - Removes last 10 messages from discord channel. <br/>
 dt help - Posts help menu to discord channel. 
