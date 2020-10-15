@@ -1,7 +1,7 @@
 # discord_trakt_tv_trending
 
 Purpose: <br/>
-Creates a discord bot that posts a list trending movies or shows from the trakt tv apiautomatically to a discord channel. <br/>
+Creates a discord bot that posts a list trending movies or shows from the trakt tv api automatically to a discord channel. <br/>
 
 Examples: <br/>
 ```dt clear 5``` - Removes last 5 messages from discord channel. <br/>
